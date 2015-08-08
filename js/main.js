@@ -47,7 +47,7 @@ function drawCircle() {
 let inter = setInterval(function() {
   clearCanvas(circle, CIRCLE_CANVAS);
   ++deg;
-  ++current++;
+  ++current;
   if (current == 360) current = 0;
   if (deg == 360) deg = 0;
 
