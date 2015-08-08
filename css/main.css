@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('../font/Roboto-Regular.ttf');
+}
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto';
+}
+#page-1 {
+  margin: 0;
+  padding: 0;
+  height: 500px;
+  background-color: #228366;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
