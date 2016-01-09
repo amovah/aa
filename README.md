@@ -1,6 +1,6 @@
 # aa
 
-I saw in my android device a game that game called aa. It's interested for me. I made a decision at that moment to create a game with canvas. Finally, I have created it, but a little part of the game.
+I saw in my android device a game that game is called aa. It's interested for me. I made a decision at that moment to create a game with canvas. Finally, I have created it, but a little part of the game.
 
 ## Play
 
